@@ -1,0 +1,4 @@
+github.com/FedorLap2006/WebFrame v0.0.0-20190127210027-ebb1f022b46d h1:HRmSYuLjhtDLR/mvaXlq9cps1OlbhqZTe6/Is9UxIAI=
+github.com/FedorLap2006/WebFrame v0.0.0-20190127210027-ebb1f022b46d/go.mod h1:gyrqd3rJifmeYq9Es1MrBG7/uMJXYiHVp+3c55vilJ4=
+github.com/gorilla/mux v1.7.0 h1:tOSd0UKHQd6urX6ApfOn4XdBMY6Sh1MfxV3kmaazO+U=
+github.com/gorilla/mux v1.7.0/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
